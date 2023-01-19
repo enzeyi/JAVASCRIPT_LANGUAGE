@@ -1,0 +1,2 @@
+# JAVASCRIPT_LANGUAGE
+No words!
